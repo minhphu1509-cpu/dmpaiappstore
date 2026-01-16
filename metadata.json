@@ -1,0 +1,8 @@
+{
+  "name": " AI Studio Marketplace v4",
+  "description": "The premier marketplace for AI applications. Discover, buy, and sell advanced AI tools powered by Gemini 3.0. Enterprise-grade security, instant delivery, and global support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
